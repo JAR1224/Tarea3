@@ -1,5 +1,7 @@
 # Trabajo Escrito
 
+## Resultados finales:
+
 * Punto 1:
 
 Se aproximo ambas pmf's con una distribucion gaussiana. Usando la funcion curve_fit, se encontro que la curva de mejor ajuste para la variable X es una
