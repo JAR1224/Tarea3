@@ -1,5 +1,7 @@
 # Trabajo Escrito
+
 * Punto 1:
+
 Se aproximo ambas pmf's con una distribucion gaussiana. Usando la funcion curve_fit, se encontro que la curva de mejor ajuste para la variable X es una
 distribucion Gaussiana con desviacion estandar de 3,299 y promedio de 9,9048.
 La expresion analitica de la pmfX entonces seria:
@@ -12,6 +14,7 @@ La expresion analitica de la pmfX entonces seria:
 <img src="pmfY_Ecuacion.png">
 
 * Punto 2:
+
 Si asumimos que X y Y son independientes, entonces la pmfXY es el producto de la pmfX y la pmfY:
 pmfXY= pmfX * pmfY
 La expresion analitice de la pmfY entonces seria:
@@ -30,6 +33,7 @@ nuestra asuncion inicial fue correcta.
 Para encontrar el coeficiente de correlacion primero se encontro la desviacion estandar de X y Y. Luego se utilizo la formula y se encontro que el coeficiente es 0,003536.
 
 * Punto 4:
+
 La pmfX:
 
 <img src="pmfX.png">
