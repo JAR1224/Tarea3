@@ -46,7 +46,7 @@ variance = 6.027**2
 sigma = np.sqrt(variance)
 x = np.linspace(mu - 3*sigma, mu + 3*sigma, 100)
 plt.plot(x, stats.norm.pdf(x, mu, sigma))
-plt.savefig('pmfX.png')
+plt.savefig('pmfY.png')
 plt.clf()
 
 
@@ -56,7 +56,7 @@ variance = 3.299**2
 sigma = np.sqrt(variance)
 x = np.linspace(mu - 3*sigma, mu + 3*sigma, 100)
 plt.plot(x, stats.norm.pdf(x, mu, sigma))
-plt.savefig('pmfY.png')
+plt.savefig('pmfX.png')
 plt.clf()
 
 print()
