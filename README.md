@@ -7,3 +7,4 @@
 $\frac{1}{2}$
 
 ![image][pmfX.png]
+<img src="pmfX.png">
